@@ -1,0 +1,163 @@
+* {
+  margin: 0px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: ghostwhite;
+}
+h1 {
+  color: darkorchid;
+}
+h1 {
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  text-align: top;
+}
+h2 {
+  color: indigo;
+  font-family: cursive;
+  font-size: 13px;
+}
+p {
+  font-family: sans-serif;
+  font-size: 5mm;
+}
+.mundito {
+  height: 150px;
+  border-radius: 70%;
+}
+.cara-sonriente {
+  height: 50px;
+  border-radius: 200%;
+}
+.fechas {
+  background-color: lightseagreen;
+  font-family: sans-serif;
+  font-size: 15px;
+  width: 270px;
+  border-radius: 20px;
+  text-align: left;
+}
+.espacios {
+  height: 50px;
+  background-color: ghostwhite;
+}
+footer {
+  font-family: sans-serif;
+  text-align: center;
+}
+h2 {
+  font-size: 20px;
+}
+h3 {
+  font-family: sans-serif;
+  font-size: 18px;
+  color: indigo;
+  text-decoration: underline;
+}
+h4 {
+  font-family: sans-serif;
+  font-size: 17px;
+}
+.div {
+  background-color: lightseagreen;
+  width: 300px;
+  height: 300px;
+}
+.Clase3jun {
+  width: 200px;
+  height: 160px;
+  background-color: lightgreen;
+  border-radius: 10px;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-align: center;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+.portada3jun {
+  width: 150px;
+  height: 120px;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-style: dashed;
+  padding: 10px;
+}
+.Clase10jun {
+  width: 200px;
+  height: 160px;
+  background-color: lightgreen;
+  border-radius: 10px;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-align: center;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+.portada10jun {
+  width: 150px;
+  height: 120px;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-style: dashed;
+  padding: 10px;
+}
+.Clase17jun {
+  width: 200px;
+  height: 160px;
+  background-color: lightgreen;
+  border-radius: 10px;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-align: center;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+.portada-isi {
+  width: 150px;
+  height: 120px;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-style: dashed;
+  padding: 10px;
+}
+.Clase24jun {
+  width: 200px;
+  height: 160px;
+  background-color: lightgreen;
+  border-radius: 10px;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-align: center;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+.portada-neoliberalismo {
+  width: 150px;
+  height: 120px;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-style: dashed;
+  padding: 10px;
+}
+#seccion-agenda {
+  width: 100%;
+  height: 70%;
+  background-color: lightpink;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  justify-content: space-evenly;
+  border-radius: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
